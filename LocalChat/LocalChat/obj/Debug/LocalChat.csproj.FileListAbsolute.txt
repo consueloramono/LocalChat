@@ -1,0 +1,10 @@
+C:\Users\romad\source\repos\LocalChat\LocalChat\bin\Debug\LocalChat.exe.config
+C:\Users\romad\source\repos\LocalChat\LocalChat\bin\Debug\LocalChat.exe
+C:\Users\romad\source\repos\LocalChat\LocalChat\bin\Debug\LocalChat.pdb
+C:\Users\romad\source\repos\LocalChat\LocalChat\obj\Debug\LocalChat.Form1.resources
+C:\Users\romad\source\repos\LocalChat\LocalChat\obj\Debug\LocalChat.Properties.Resources.resources
+C:\Users\romad\source\repos\LocalChat\LocalChat\obj\Debug\LocalChat.csproj.GenerateResource.cache
+C:\Users\romad\source\repos\LocalChat\LocalChat\obj\Debug\LocalChat.csproj.CoreCompileInputs.cache
+C:\Users\romad\source\repos\LocalChat\LocalChat\obj\Debug\LocalChat.exe
+C:\Users\romad\source\repos\LocalChat\LocalChat\obj\Debug\LocalChat.pdb
+C:\Users\romad\source\repos\LocalChat\LocalChat\obj\Debug\LocalChat.csproj.AssemblyReference.cache
